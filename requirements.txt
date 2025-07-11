@@ -1,0 +1,11 @@
+numpy
+matplotlib
+joblib
+qutip
+torch
+pandas
+sqlite3
+reportlab
+faiss-cpu  # Optional for Overmind
+mpi4py  # Optional for distributed
+pytest  # For tests
