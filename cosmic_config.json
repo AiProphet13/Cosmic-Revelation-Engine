@@ -1,0 +1,7 @@
+{
+  "qualia_factor": 1.0,
+  "oracle_layers": 2,
+  "position_noise": 0.0,
+  "high_threshold": 0.7,
+  "segment_multiplier": 1.0
+}
